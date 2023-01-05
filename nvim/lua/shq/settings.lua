@@ -19,3 +19,5 @@ o.textwidth = 300
 o.tabstop = 4
 o.shiftwidth = 0
 
+vim.cmd("colorscheme slate")
+
