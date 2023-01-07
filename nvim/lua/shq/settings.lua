@@ -1,7 +1,9 @@
 local g = vim.g
 local o = vim.o
 
-o.timeoutlen = 500
+g.mapleader = ';'
+
+o.timeoutlen = 2000
 o.updatetime = 200
 
 o.scrolloff = 8
